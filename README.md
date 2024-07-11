@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 - 👨‍💻 All of my projects are available at [http://localhost:3000](http://localhost:3000)
 
-- 📄 Know about my experiences [file:///C:/Users/hp/Downloads/techs%20(1).pdf](file:///C:/Users/hp/Downloads/techs%20(1).pdf)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
