@@ -1,5 +1,4 @@
 ![ logo ](https://github.com/tarsem200319/tarsem200319/blob/main/newtech.jpg)
-<img align="center"  width="350px" height="250px"/>
 ## Hi there 👋
 <h1 align="center">Hi 👋, I'm Tarsem Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
