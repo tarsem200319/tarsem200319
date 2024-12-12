@@ -3,9 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tarsem200319&label=Profile%20views&color=0e75b6&style=flat" alt="tarsem200319" /> </p>
 
-- 👨‍💻 All of my projects are available at [http://localhost:3000](http://localhost:3000)
+- 👨‍💻 All of my projects are available at [Click](https://www.linkedin.com/in/tarsem-singh-6b16342b5/)
 
-- 📄 Know about my experiences [file:///C:/Users/hp/Downloads/techs%20(1).pdf](file:///C:/Users/hp/Downloads/techs%20(1).pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
