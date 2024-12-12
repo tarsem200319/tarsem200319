@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tarsem Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="(https://github.com/user-attachments/assets/a3b98b4a-2fd0-49e4-baa2-03eab2e22df8)">
+<img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/a3b98b4a-2fd0-49e4-baa2-03eab2e22df8">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tarsem200319&label=Profile%20views&color=0e75b6&style=flat" alt="tarsem200319" /> </p>
 
 <h3 align="left">Connect with me:</h3>
