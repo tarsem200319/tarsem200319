@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tarsem Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="">
+<img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/78bff2fe-5dba-4266-8b1e-3e2c2a99b458">
 
 <h3 align="left">Connect with me:</h3>
 
